@@ -1,1 +1,2 @@
-# geo-in-progress
+# Geologist
+Geologist Project
